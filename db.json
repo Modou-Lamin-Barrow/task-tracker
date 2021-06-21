@@ -1,34 +1,35 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30pm",
-      "reminder": true
-    },
-    {
-      "id": "2",
-      "text": " Meeting at work",
-      "day": "Feb 6th at 1:30pm",
-      " reminder": true
-    },
-    {
       "id": "5",
       "text": " Prayers",
       "day": "Feb 8th at 5:30pm",
-      " reminder": false
-    },
-    {
-      "text": "Visit Habib",
-      "day": "Tuesday",
-      "reminder": true,
-      "id": "1Q0u02P"
+      " reminder": false,
+      "reminder": true
     },
     {
       "text": "Visit Habib",
       "day": "Tuesday",
       "reminder": true,
       "id": "CkD2tBM"
+    },
+    {
+      "text": "Fighting",
+      "day": "Friday",
+      "reminder": true,
+      "id": "cF2dmWf"
+    },
+    {
+      "text": "study",
+      "day": "Monday",
+      "reminder": true,
+      "id": "DO1DURi"
+    },
+    {
+      "text": "football",
+      "day": "saturday",
+      "reminder": false,
+      "id": "DpS1KG5"
     }
   ]
 }
